@@ -1,0 +1,14 @@
+Algoritimo café da manhã em portugol
+INÍCIO
+1 Quando acordo, levanto da cama;
+2 Após levantar da cama, desligo o despertador;
+3 Após desligar o despertador, caminho até a porta;
+4 Se a porta estiver fechada;
+  1 Giro a chave para destrancar;
+  2 Giro a maçaneta em 360 graus;
+  3 Puxo a porta;
+5 Se a porta estiver aberta;
+  1 Giro a maçaneta em 360 grau;
+  2 Puxo a maçaneta;
+  3 Abro a porta;
+Fim
